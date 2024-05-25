@@ -1,2 +1,2 @@
-# cv
+# jbg-cv
 Curriculum Vitae / Résumé
